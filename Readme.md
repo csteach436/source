@@ -1,7 +1,3 @@
 ### Source
 
-This repository includes source code examples developed for COMP 436.
-
-#### Contents
-* HTML
-* XML
+This repository includes weekly source code examples developed for COMP 436.
